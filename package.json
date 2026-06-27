@@ -50,6 +50,7 @@
   "pnpm": {
     "overrides": {
       "defu": "^6.1.5",
+      "minimatch": "^9.0.7",
       "rollup": "^4.59.0"
     }
   }
